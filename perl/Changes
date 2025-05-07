@@ -1,4 +1,4 @@
-Revision history for Perl extension Net::NSCAng::Client.
+Revision history for Perl extension Net::NSCAng::Client. 
 
 v1.0.0  2016-09-12
 	- New: provide :rcodes tag to only import return codes
