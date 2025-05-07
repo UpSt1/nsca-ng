@@ -1,4 +1,4 @@
-## Process this file with automake(1) to produce Makefile.in.
+## Process this file with automake(1) to produce Makefile.in. 
 
 ## Copyright (c) 2013 Holger Weiss <holger@weiss.in-berlin.de>
 ## All rights reserved.
