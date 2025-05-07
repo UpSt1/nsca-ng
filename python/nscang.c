@@ -1,4 +1,4 @@
-/*
+/* 
  * Copyright (c) 2014 Alexander Golovko <alexandro@onsec.ru>
  * All rights reserved.
  *
