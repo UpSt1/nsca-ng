@@ -18,3 +18,4 @@ Python NSCA-ng client.
                                libraries = ["pthread", "ssl", "crypto"],
                                define_macros = [("VERSION", '"%s"' % VERSION)])],
       )
+
