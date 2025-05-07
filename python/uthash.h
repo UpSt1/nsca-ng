@@ -227,7 +227,7 @@ do {                                                                            
   (add)->hh.next = NULL;                                                         \
   (add)->hh.prev = ELMT_FROM_HH((head)->hh.tbl, (head)->hh.tbl->tail);           \
   (head)->hh.tbl->tail->next = (add);                                            \
-  (head)->hh.tbl->tail = &((add)->hh);                                           \
+  (head)->hh.tbl->tail = &((add)->hh);                                           \ 
 } while (0)
 
 #define HASH_ADD_KEYPTR_BYHASHVALUE_INORDER(hh,head,keyptr,keylen_in,hashval,add,cmpfcn) \
